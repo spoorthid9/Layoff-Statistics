@@ -21,6 +21,15 @@ b) Number of companies that laid off their employees wrt to their stage -
 
 (Only few records are shown)
 
+
 c) Number of companies that laid off their employees in each country -
+
+
+![countries](https://user-images.githubusercontent.com/118953638/205453373-b4eeb227-49e1-4dc2-9773-92c97f3b539c.JPG)
+
+(Only few records are shown)
+
+
+d) Funds raised post lay off - 
 
 
