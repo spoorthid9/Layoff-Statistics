@@ -1,3 +1,4 @@
+#Funds raised post layoff
 SELECT DISTINCT(company),industry,funds_raised
 FROM layoffsproj.layoffsrawdata
 WHERE funds_raised!=''
