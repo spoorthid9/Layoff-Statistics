@@ -8,3 +8,11 @@ I sorted the aforementioned data to extract significant insights, notably the fo
 
 a) Percentage of employees laid off in their respective industries - 
 
+
+![%age](https://user-images.githubusercontent.com/118953638/205453169-6cc9f4e9-8eb2-427b-b7bd-9476ea39a105.JPG)
+
+(Only few records are shown)
+
+b) Number of companies that laid off their employees wrt to their stage - 
+
+
