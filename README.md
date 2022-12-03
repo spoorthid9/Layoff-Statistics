@@ -33,3 +33,11 @@ c) Number of companies that laid off their employees in each country -
 d) Funds raised post lay off - 
 
 
+![funds](https://user-images.githubusercontent.com/118953638/205453451-8eadaf23-0592-4302-b14c-80912479479d.JPG)
+
+(Only few records are shown)
+
+
+e) Total number of employees laid off in each industry - 
+
+
