@@ -41,3 +41,6 @@ d) Funds raised post lay off -
 e) Total number of employees laid off in each industry - 
 
 
+![totalindus](https://user-images.githubusercontent.com/118953638/205453539-9e1dd112-f3d5-458e-bfbf-0aa92d04c650.JPG)
+
+(Only few records are shown)
